@@ -6,11 +6,10 @@
 </h3>
 
 ## About
-Cloning Instagram login page for learning purposes using HTML and CSS.
+Cloning Instagram login page for learning purposes.
 <br></br>
 
 <img width="950" alt="image" src="img/instagram-login.png">
-<br></br>
 
 ## Technologies
 * ``HTML``
